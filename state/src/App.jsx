@@ -1,5 +1,6 @@
+import Hooks from "./Component/Hooks"
+import Map from "./Component/Map"
 
-import Hook from "./component/Hooks"
 function App(){
 
   function demo(a){
@@ -16,11 +17,12 @@ function App(){
     <button onClick={demo}>click</button> <hr />
     <button onClick={()=>demo(10)}>get here</button> <hr />
     <button onMouseEnter={event}>click</button> <hr />
-    <button onMouseLeave={()=>event("vishal")}>tap</button> <hr />
+    <button onMouseLeave={()=>event("aniket")}>tap</button> <hr />
     <button onContextMenu={heer}>click</button> <hr />
     <button onDoubleClick={()=>heer(22)}>tap</button> <hr />
 
-    <Hook/>
+    <Hooks/>
+    <Map/>
     
     </>
   )
