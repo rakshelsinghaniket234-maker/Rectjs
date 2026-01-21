@@ -1,6 +1,7 @@
 import Hooks from "./Component/Hooks"
 import Map from "./Component/Map"
-
+import Photochange from "./Component/Photochange"
+import Table from "./Component/Table"
 function App(){
 
   function demo(a){
@@ -23,6 +24,8 @@ function App(){
 
     <Hooks/>
     <Map/>
+    <Photochange/>
+    <Table/>
     
     </>
   )

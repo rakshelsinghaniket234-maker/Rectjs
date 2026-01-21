@@ -14,6 +14,7 @@ function Hooks(){
          <button onClick={fun}>change</button> <hr />
 
          <button onClick={()=>setnum("update")}>tap</button>
+         
 
         <h1>0</h1>
          <button>+</button>
