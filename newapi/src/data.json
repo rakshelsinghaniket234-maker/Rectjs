@@ -1,13 +1,6 @@
 {
   "userdata": [
     {
-      "name": "Aniket",
-      "city": "Aurangabad",
-      "age": 24,
-      "contact": 6287633333,
-      "id": "18a"
-    },
-    {
       "id": "18v",
       "name": "vishal",
       "city": "Aurangabad",
@@ -23,24 +16,17 @@
     },
     {
       "id": "18k",
-      "name": "kanhaiya",
+      "name": "kanhaiya lal",
       "city": "Aurangabad",
       "age": "24",
       "contact": "6789456756"
     },
     {
       "id": "18l",
-      "name": "lawkhush",
-      "city": "Aurangabad",
-      "age": "24",
-      "contact": "2345768900"
-    },
-    {
-      "id": "21a8",
-      "name": "Aniket kumar",
-      "city": "bhopal",
-      "age": "24",
-      "contact": "7846512378"
+      "name": " vishal",
+      "city": "bikat",
+      "age": "20",
+      "contact": "74185"
     },
     {
       "id": "18s",
@@ -51,6 +37,20 @@
     },
     {
       "id": "42d3",
+      "name": "Aniket kumar",
+      "city": "bhopal",
+      "age": "24",
+      "contact": "7846512378"
+    },
+    {
+      "id": "178a",
+      "name": "Aniket kumar",
+      "city": "bhopal",
+      "age": "24",
+      "contact": "7846512378"
+    },
+    {
+      "id": "5598",
       "name": "Aniket kumar",
       "city": "bhopal",
       "age": "24",
